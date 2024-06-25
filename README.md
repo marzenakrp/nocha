@@ -1,6 +1,7 @@
 # Nocha
+[![arXiv](https://img.shields.io/badge/arXiv-2406.16264-b31b1b.svg)](https://arxiv.org/abs/2406.16264)
 
-This it the official repo for "One Thousand and One Pairs: A "novel" challenge for long-context language models"
+This it the official repo for ["One Thousand and One Pairs: A "novel" challenge for long-context language models"](https://arxiv.org/abs/2406.16264)
 
 `Authors:` Marzena Karpinska, Katherine Thai, Kyle Lo, Tanya Goyal, Mohit Iyyer
 
@@ -60,7 +61,7 @@ If you use this work in any form, please cite as:
       title={One Thousand and One Pairs: A "novel" challenge for long-context language models}, 
       author={Marzena Karpinska and Katherine Thai and Kyle Lo and Tanya Goyal and Mohit Iyyer},
       year={2024},
-      eprint={},
+      eprint={https://arxiv.org/abs/2406.16264},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
