@@ -75,7 +75,9 @@ We prompt the models with a claim and the entire book as the context. The prompt
 
 
 
-### Corpus Statistics
+## NoCha Statistics
+
+We provide the statistics for the entire dataset below. Nother tha only a subset is released as sample data in this repo. We do _not_ plan to release the entire dataset to prevent data contamination and due to the books being under copyrights.
 
 |              | **Books**                   | **Books**                   | **Claim** {*pairs*}           | **Claim**  {*pairs*}          | **Claim**  {*pairs*}                   |
 |--------------|-----------------------------|-----------------------------|-------------------------------|-------------------------------|-------------------------------|
