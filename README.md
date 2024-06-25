@@ -1,4 +1,4 @@
-# <img src="assets/nocha.png" alt="NoCha" width="150" height="40"> 
+# <img src="assets/nocha2.png" alt="NoCha" width="150" height="40"> 
 [![arXiv](https://img.shields.io/badge/arXiv-2406.16264-b31b1b.svg)](https://arxiv.org/abs/2406.16264)
 
 `Paper:` ["One Thousand and One Pairs: A "novel" challenge for long-context language models"](https://arxiv.org/abs/2406.16264)
