@@ -37,6 +37,8 @@ We do NOT release our full dataset as (1) it contains mostly books published in 
 }
 ```
 
+Data info: TODO
+
 ### Corpus Statistics
 
 |              | **Books**                   | **Books**                   | **Claim** {*pairs*}           | **Claim**  {*pairs*}          | **Claim**  {*pairs*}                   |
