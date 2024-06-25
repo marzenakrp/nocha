@@ -21,6 +21,8 @@ This approach allows has several advantages:
 
 We also measure human accuracy on a subset of our claim pairs and confirm the in ~97% of cases human annotators who have read the books are able to correctly identify _both_ claims in the pair.
 
+![Data example and evaluatio pipeline](assets/example.png)
+
 Note: This work was inspired by our preliminary results reported in [FABLES: Evaluating faithfulness and content selection in book-length summarization](https://arxiv.org/abs/2404.01261). Check out the Fables paper if you are interested in how well can LLMs utilize their long context for summarization!
 
 ## Sample Data
