@@ -36,8 +36,8 @@ We do NOT release our full dataset as (1) it contains mostly books published in 
       "type": "True",
       "index": 150,
       "false-claim-explanation": "The March parents like Brooke; they object to Bhaer's age and poverty. Aunt March objects to Brooke because he is too poor.",
-      "lenght": 235118,
-      "lenght_bucket": "above 180k",
+      "length": 235118,
+      "length_bucket": "above 180k",
       "genre": "historical",
       "publication_year": "classics",
       "response-gemini": "<explanation>While the statement mentions concerns that are common in families, the text does not state that Mr. and Mrs. March object to Mr. Bhaer. In fact, they seem to like him from the start. Aunt March is the one who objects to the match because of his lack of wealth. </explanation><answer>FALSE</answer>",
@@ -57,9 +57,9 @@ The `sample_data.json` contains the following information:
 
 `false-claim-explanation` (`str`): annotator's explanation as to why the False claim in the pair is incorrect.
 
-`lenght` (`int`): length of the book computed with [tiktoken](https://github.com/openai/tiktoken) using the `cl100k_base` encoding.
+`length` (`int`): length of the book computed with [tiktoken](https://github.com/openai/tiktoken) using the `cl100k_base` encoding.
 
-`lenght_bucket` (`str`): one of four lenght categories: below 75k, 75k-127k, 127k-180k, or above 180k tokens.
+`length_bucket` (`str`): one of four lenght categories: below 75k, 75k-127k, 127k-180k, or above 180k tokens.
 
 `genre` (`str`): one of three genres: historical, contemporary, or speculative.
 
