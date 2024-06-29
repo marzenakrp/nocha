@@ -93,7 +93,7 @@ We provide the statistics for the entire dataset below. Nother tha only a subset
 
 🔮 **1. Have you tried different prompts or prompting methods?**
 
-Yes, we experimented with three prompting methods: (1) answer-only, (2) answer followed by explanation, and (3) explanation followed by answer. Details of these experiments can be found in the appendix. We did not try other methods such as few-shot prompting or chunking the text. Few-shot prompting is impractical with book-length input. Since our goal is to test the abilities of LLMs to process *long-context*, chunking the text would defeat the purpose (that being said, you may want to check out the results on stories reported in the paper). Ideally, a model that fully utilizes its claimed context window should handle this task regardless of small differences in prompt wording or order.
+Yes, we experimented with three prompt variations asking for: (1) answer-only, (2) answer followed by explanation, and (3) explanation followed by answer. Details of these experiments can be found in the appendix. We did not try other methods such as few-shot prompting or chunking the text. Few-shot prompting is impractical with book-length input. Since our goal is to test the abilities of LLMs to process *long-context*, chunking the text would defeat the purpose (that being said, you may want to check out the results on stories reported in the paper). Ideally, a model that fully utilizes its claimed context window should handle this task regardless of small differences in prompt wording or order.
    
 🌟 **2. How do you ensure that the annotators wrote valid claims?**
 
