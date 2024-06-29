@@ -89,7 +89,23 @@ We provide the statistics for the entire dataset below. Nother tha only a subset
 | **Min**      | 49,156                      | 38,023                      | 5                             | 4                             | 4                             |
 
 
+## FAQ
 
+1. Have you tried different prompts or prompting methods?
+
+Yes, we experimented with three prompting methods: (1) answer-only, (2) answer followed by explanation, and (3) explanation followed by answer. Details of these experiments can be found in the appendix. We did not try other methods such as few-shot prompting or chunking the text. Few-shot prompting is impractical with book-length input. Since our goal is to test the abilities of LLMs to process *long-context*, chunking the text would defeat the purpose (that being said, you may want to check out the results on stories reported in the paper). Ideally, a model that fully utilizes its claimed context window should handle this task regardless of small differences in prompt wording or order.
+   
+2. How do you ensure that the annotators wrote valid claims?
+
+Our annotators are avid readers who read the books for their own enjoyment, not specifically for this task. Often, they had access to advance reader copies, enabling us to annotate books before their official publication. Throughout the annotation process, we worked closely with them, reviewing each claim pair multiple times and discussing any unclear details. Additionally, we personally read, enjoyed, and annotated 14 books ourselves.
+
+3.  Why didn't you add more models?
+
+We plan on adding more models. If you are interested in seeing how your model performs on our data please let us know!
+   
+4.  Why don't you release your entire annotations?
+
+We don't release our annotations to prevent model providers from training on them, which could compromise the dataset's integrity. We also plan to periodically update our dataset with "fresh" books and evaluate the models ourselves on the new data. While this approach may seem impractical, it is currently the only way to ensure that we test the models on data they haven't seen during (pre-)training.
 
 ## Citation Information
 If you use this work in any form, please cite as:
