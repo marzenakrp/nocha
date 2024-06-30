@@ -9,7 +9,7 @@
 
 `Leaderboard:` [Nocha Leaderboard](https://novelchallenge.github.io/index.html)
 
-`TL'DR:` NoCha is a dataset for evaluation loooong context language models' abilities to reason over book-length context. We do NOT release the entire dataset as it contrains new, i.e. copyrighted, books. Instead, we release a sample data build on classic novels and commit to evaluate LMs on the entire dataset ourselves.
+`TL'DR:` NoCha is a dataset for evaluation loooong context language models' abilities to reason over book-length context. We do NOT release the entire dataset as it contains new, i.e. copyrighted, books. Instead, we release a sample data build on classic novels and commit to evaluate LMs on the entire dataset ourselves.
 
 ## About Nocha
 
