@@ -103,7 +103,7 @@ Our annotators are avid readers who read the books for their own enjoyment, not 
 
 🧚‍♀️ **3.  Why didn't you test more models?** 
 
-We plan on adding more models and you can find the newest addition on our [website](https://novelchallenge.github.io/index.html). If you are interested in seeing how your model performs on our data please let us know! API credits are certainly welcome!
+We plan on adding more models and you can find the newest additions on our [website](https://novelchallenge.github.io/index.html). If you are interested in seeing how your model performs on our data please let us know! API credits are certainly welcome!
    
 🦄 **4.  Why don't you release your entire annotations?**
 
