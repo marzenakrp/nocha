@@ -103,11 +103,15 @@ Our annotators are avid readers who read the books for their own enjoyment, not 
 
 🧚‍♀️ **3.  Why didn't you test more models?** 
 
-We plan on adding more models. If you are interested in seeing how your model performs on our data please let us know! API credits are certainly welcome!
+We plan on adding more models and you can find the newest addition on our [website](https://novelchallenge.github.io/index.html). If you are interested in seeing how your model performs on our data please let us know! API credits are certainly welcome!
    
 🦄 **4.  Why don't you release your entire annotations?**
 
 We don't release our annotations to prevent model providers from training on them, which could compromise the dataset's integrity. We also plan to periodically update our dataset with "fresh" books and evaluate the models ourselves on the new data. While this approach may seem impractical, it is currently the only way to ensure that we test the models on data they haven't seen during (pre-)training.
+
+🧝‍♀️ **5. Will you expand the dataset?**
+
+Yes, we are currently working with our best annotators on expanding the dataset and have already added over 10 new books published or scheduled to be publish between June and October 2024. We will rerun all models on the new portion of the dataset soon.
 
 ## Citation Information
 If you use this work in any form, please cite as:
