@@ -111,7 +111,7 @@ We don't release our annotations to prevent model providers from training on the
 
 🧝‍♀️ **5. Will you expand the dataset?**
 
-Yes, we are currently working with our best annotators on expanding the dataset and we have already added 10 new books published or scheduled to be publish between June and October 2024. We will rerun all models on the new portion of the dataset soon.
+Yes, we are currently working with our best annotators on expanding the dataset and we have already added 10 new books published or scheduled to be publish between June 2024 and March 2025. We will rerun all models on the new portion of the dataset soon (by the end of November 2024).
 
 ## Citation Information
 If you use this work in any form, please cite as:
